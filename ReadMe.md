@@ -1,10 +1,13 @@
 # Scripting through Google Drive
 
-This is a simple notebook demonstrating how to iterate through files in Google Drive.
+This provides a jupyter notebook to demonstrate how to iterate through files in Google Drive.
+
 Use of the Drive API requires the script/application to be associated with a GCP project with a client OAuth secret.
 
+A devcontainer allows the notebook to be run from VSCode.
+
 ## Google Cloud
-Start by logging in to GCP
+Log into GCP and perform the following steps
 ### Create a project
 - Click on the 'Select Project' dialog at the top of the GCP console.
 - Click 'New Project', provide a project name, and click 'Create'. (Or select an existing project)

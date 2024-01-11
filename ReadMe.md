@@ -1,4 +1,4 @@
-# Scripting through Google Drive
+# Navigating Google Drive With Python
 
 This provides a jupyter notebook to demonstrate how to iterate through files in Google Drive.
 
